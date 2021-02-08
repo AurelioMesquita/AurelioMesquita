@@ -1,5 +1,11 @@
-# Welcome to GitHub Desktop!
+#🤘🎸💻🪐🌌 Hello World! 🌌🪐💻🎸🤘
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+###🙋‍♂️ My name is Aurélio Mesquita
+###🔭 I’m currently a computer scientist
+###📓 I’m currently learning HTML && CSS && JavaScript && ReactJs && NodeJs
+###🪐 Passionated by technologies.
+###   https://www.linkedin.com/in/aurélio-mesquita-7b5787190/
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+
+
+![code](https://github.com/AurelioMesquita/Aurelio-Mesquita/blob/master/code.gif)
