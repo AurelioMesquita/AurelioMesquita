@@ -11,4 +11,4 @@
 ![code](https://github.com/AurelioMesquita/Aurelio-Mesquita/blob/master/code.gif)
 
 
-<p align="center<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AurelioMesquita&show_icons=true&theme=dracula&count_private=true" alt="Aurélio Mesquita github stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AurelioMesquita&show_icons=true&theme=dracula&count_private=true" alt="Aurélio Mesquita github stats" /> </p>
