@@ -12,6 +12,3 @@
 
 
 <p align="center<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AurelioMesquita&show_icons=true&theme=dracula&count_private=true" alt="Aurélio Mesquita github stats" /> </p>
-
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
