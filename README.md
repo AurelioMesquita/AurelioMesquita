@@ -23,8 +23,8 @@
 
 ##
 <div>
-<img align="center" alt="Aurelio-git" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</div>
+<a href="https://www.linkedin.com/in/aurélio-mesquita-7b5787190"target="_blank"><img align="center" alt="Aurelio-git" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 ##
 
