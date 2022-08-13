@@ -30,7 +30,7 @@
 
 <div style="display: inline_block"><br><br>
 <a href="https://github.com/AurelioMesquita">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AurelioMesquita&show_icons=true&theme=dracula&include_all_commits=true"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AurelioMesquita&show_icons=true&theme=dracula&count_private=true"/>
 <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AurelioMesquita&layout=compact&langs_count=168&&theme=dracula"/>
 </div>
 
