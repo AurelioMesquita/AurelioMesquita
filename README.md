@@ -1,3 +1,5 @@
+![](https://visitor-badge.glitch.me/badge?page_id=Mateussj)
+
 #🤘🎸💻🪐🌌 Hello World! 🌌🪐💻🎸🤘
 
 <div>
